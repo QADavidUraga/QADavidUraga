@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, My name is David
+https://img.shields.io/badge/playwright-automation-%236A9438
 
 <!--
 **QADavidUraga/QADavidUraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
