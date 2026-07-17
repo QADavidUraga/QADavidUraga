@@ -29,10 +29,10 @@ Building scalable and maintainable test frameworks — UI, API, and AI-powered t
 
 ### 🚀 Featured Projects
 
-- **[Project Name]** — Brief description of what it does and the problem it solves.  
+- **[Landing pages for businesses]** — Created webpages using React + TypeScript + Vite. I consider this important in order to understand how a webpage is built and how you can test it easier.  
   `Playwright` `TypeScript` `Page Object Model`
 
-- **[API Chatbot testing]** — Brief description.  
+- **[API Chatbot testing]** — API automation using playwright and security measures taken using secrets vault.  
   `Playwright` `API Testing` `Integration Testing`
 
 - **[OrangeHRM testing]** — Automated UI test suite for OrangeHRM demo webpage.  
@@ -43,13 +43,13 @@ Building scalable and maintainable test frameworks — UI, API, and AI-powered t
 ### 📫 Let's Connect
 
 <p>
-<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/david-uraga-094984289/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/QADavidUraga" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:TU-CORREO@gmail.com" target="_blank">
+<a href="mailto:daviduraga@outlook.es" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
